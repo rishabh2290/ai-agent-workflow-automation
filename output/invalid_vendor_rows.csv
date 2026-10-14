@@ -1,0 +1,3 @@
+﻿row_number,row,errors
+2,"{""sku"": null, ""product_name"": ""Mouse"", ""price"": 300}",Missing SKU
+3,"{""sku"": ""SKU003"", ""product_name"": null, ""price"": 200}",Missing product name
